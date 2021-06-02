@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4056597d5b8a67e4493b1c21d788111d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabAire: {fileID: 1279355733311950, guid: 0b5e82f2cd1563f49884b99a4f162c98,
+      type: 2}
+  - prefabLampara: {fileID: 1269609462254248, guid: ca7180c26ed8f2b45b25ce50782cad92,
+      type: 2}
+  - prefabLuz: {fileID: 1804612117754140, guid: 50eeab111d18ccd4aad281102d8795e0,
+      type: 2}
+  - prefabTV: {fileID: 1435189306309138, guid: c945bbb304f07174ab874a681ab42cf3, type: 2}
+  - prefabVentPiso: {fileID: 1003691555363046, guid: 29a77f25e6f509c44b26b79dc5f378c6,
+      type: 2}
+  - prefabVentTecho: {fileID: 1710451592257416, guid: 041f0641a27776b499e46c19379390eb,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
