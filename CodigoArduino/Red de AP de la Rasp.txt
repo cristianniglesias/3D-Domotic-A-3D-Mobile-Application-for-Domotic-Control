@@ -1,0 +1,9 @@
+Red: DomoticaUNLPTest
+pw: MovilesLIDI2019
+IP Borker: 192.168.5.1
+
+Macs Node (terminacion):
+Aire: B1:06
+Luz: 96:A6
+TV: A8:C5
+Vent: AB:77 
